@@ -1,5 +1,7 @@
+
 # 023-Google Play Store Apps
 Datasets from: https://www.kaggle.com/lava18/google-play-store-apps
+
 
 ## Objective
 
@@ -9,6 +11,7 @@ Datasets from: https://www.kaggle.com/lava18/google-play-store-apps
 
 ## About Us
 งานนี้เป็นส่วนของวิชา INT214 Statistics for Information technology <br/> ภาคเรียนที่ 1 ปีการศึกษา 2564 คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี
+
 ### Team: TusNo. 1
 1. นายรพีพัฒน์ คล้ำจีน   StudentID: 63130500099
 2. นายสุธีร์ วาปีทำ      StudentID: 63130500122
