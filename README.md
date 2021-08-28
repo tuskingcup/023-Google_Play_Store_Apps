@@ -1,5 +1,5 @@
-# GroupID-Datasetname
-Datasets from: [name](link)
+# 023-Google Play Store Apps
+Datasets from: https://www.kaggle.com/lava18/google-play-store-apps
 
 ## Objective
 
@@ -9,12 +9,12 @@ Datasets from: [name](link)
 
 ## About Us
 งานนี้เป็นส่วนของวิชา INT214 Statistics for Information technology <br/> ภาคเรียนที่ 1 ปีการศึกษา 2564 คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี
-### Team: xxxxxxx
-1. ชื่อ นามสกุล     StudentID: 63130500xxx
-2. ชื่อ นามสกุล     StudentID: 63130500xxx
-3. ชื่อ นามสกุล     StudentID: 63130500xxx
-4. ชื่อ นามสกุล     StudentID: 63130500xxx
-5. ชื่อ นามสกุล     StudentID: 63130500xxx
+### Team: TusNo. 1
+1. นายรพีพัฒน์ คล้ำจีน   StudentID: 63130500099
+2. นายสุธีร์ วาปีทำ      StudentID: 63130500122
+3. นายสุรวิช นาคแก้ว    StudentID: 63130500125
+4. นายอมรพงษ์ ดวงฉวี   StudentID: 63130500131
+
 
 ### Instructor
 - ATCHARA TRAN-U-RAIKUL
