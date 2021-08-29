@@ -14,10 +14,9 @@ Code here
 ```
 
 
-### Team: xxxxxxx
+### Team: TusNo.1
 
-1. ชื่อ นามสกุล     StudentID: 63130500xxx
-2. ชื่อ นามสกุล     StudentID: 63130500xxx
-3. ชื่อ นามสกุล     StudentID: 63130500xxx
-4. ชื่อ นามสกุล     StudentID: 63130500xxx
-5. ชื่อ นามสกุล     StudentID: 63130500xxx
+1.นายรพีพัฒน์ คล้ำจีน StudentID: 63130500099
+2.นายสุธีร์ วาปีทำ StudentID: 63130500122
+3.นายสุรวิช นาคแก้ว StudentID: 63130500125
+4.นายอมรพงษ์ ดวงฉวี StudentID: 63130500131
