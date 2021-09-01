@@ -38,7 +38,7 @@ Description (2)
 Mode(cats$Bwt[cats$Sex == 'F']) 
 Mode(cats$Bwt[cats$Sex == 'M'])
 ```
-Description (2)
+Description (3)
 ```
 เรียกใช้ Library(DescTools)
 ค่าซ้ำกันเยอะที่สุดของ body weight in kg. (F) 2.3 - ซ้ำ 12 ตัว
@@ -51,7 +51,7 @@ Description (2)
 ```{R}
 print(table(survey$Sex))
 ```
-Description (3)
+Description (4)
 ```
 หาจำนวนเพศแต่ละเพศ
 ```
