@@ -37,12 +37,16 @@ Description (2)
 ```{R}
 Mode(cats$Bwt[cats$Sex == 'F']) 
 Mode(cats$Bwt[cats$Sex == 'M'])
+Mode(cats$Hwt[cats$Sex == 'F']) 
+Mode(cats$Hwt[cats$Sex == 'M'])
 ```
 Description (3)
 ```
 เรียกใช้ Library(DescTools)
 ค่าซ้ำกันเยอะที่สุดของ body weight in kg. (F) 2.3 - ซ้ำ 12 ตัว
 ค่าซ้ำกันเยอะที่สุดของ body weight in kg. (M) 2.7 3.0 - ซ้ำ 9 ตัว
+ค่าซ้ำกันเยอะที่สุดของ heart weight in g. (F) 10.1 - ซ้ำ 6 ตัว
+ค่าซ้ำกันเยอะที่สุดของ heart weight in g. (M) 9.6 - ซ้ำ 5 ตัว
 ```
 
 ### Survey Dataset 
