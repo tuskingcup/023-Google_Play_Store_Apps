@@ -53,7 +53,7 @@ Description (3)
 
 4.) หาจำนวนเพศแต่ละเพศ
 ```{R}
-print(table(cats$Sex))
+print(table(Survey$Sex))
 ```
 Description (4)
 ```
@@ -61,7 +61,7 @@ Description (4)
 ```
 5.) หาเพศที่ไม่สูบบุหรี่ที่มากที่สุด
 ```{R}
-Mode(cats$Sex[cats$Smoke=="Never"],na.rm = TRUE)
+Mode(Survey$Sex[Survey$Smoke=="Never"],na.rm = TRUE)
 ```
 Description (5)
 ``` 
